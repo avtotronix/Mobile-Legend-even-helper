@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MLBB Ресторан Бот</string>
+    <string name="accessibility_service_desc">Автоматическое прохождение кулинарного ивента Undersea Restaurant в Mobile Legends.</string>
+    <string name="btn_start_bot">ЗАПУСТИТЬ БОТА</string>
+    <string name="btn_stop_bot">ОСТАНОВИТЬ БОТА</string>
+    <string name="status_ready">Бот готов к работе</string>
+    <string name="status_running">Бот запущен! Перейдите в MLBB</string>
+    <string name="status_paused">Виджет открыт (на паузе)</string>
+    <string name="status_desc">Нажмите кнопку ниже и перейдите в игру. Бот сам начнет жарить, собирать и отдавать заказы.</string>
+    <string name="bubble_status_active">🍳 БОТ АКТИВЕН</string>
+    <string name="bubble_status_paused">⏸ НА ПАУЗЕ</string>
+    <string name="notification_channel_name">MLBB Bot Overlay</string>
+    <string name="notification_text">Плавающий виджет активен</string>
+    <string name="cd_status_icon">Иконка статуса бота</string>
+    <string name="cd_toggle_pause">Пауза или запуск бота</string>
+    <string name="cd_close_overlay">Закрыть виджет бота</string>
+</resources>
