@@ -8,20 +8,26 @@
 
 Чтобы бот работал прямо на вашем телефоне, требуется Android-загрузчик скриптов **AutoX.js**:
 
-### 1. Скачайте загрузчик APK:
-* 📥 **[Скачать AutoX.js APK (Официальный релиз v6.6.4)](https://github.com/flysnow-org/AutoX/releases/download/v6.6.4/autox-v6.6.4-universal.apk)**  
-  *(Зеркало всех версий: [AutoX Releases](https://github.com/flysnow-org/AutoX/releases))*
+### 1. Скачайте загрузчик APK (Прямые рабочие ссылки):
+* 📥 **[Скачать AutoX.js APK (для большинства телефонов ARM64)](https://github.com/automan-bot/AutoX/releases/download/6.5.5.10/Autox-v6-arm64-v8a-release-6.5.5.10.apk)** *(Рекомендуется)*
+* 📥 **[Скачать AutoX.js APK (Универсальная версия)](https://github.com/automan-bot/AutoX/releases/download/6.5.5.10/Autox-v6-universal-release-6.5.5.10.apk)**
+* 🌐 **[Страница всех релизов AutoX](https://github.com/automan-bot/AutoX/releases)**
+
+---
 
 ### 2. Скачайте скрипт бота:
-* 📄 **[Скачать mlbb_undersea_restaurant_bot.js](https://raw.githubusercontent.com/avtotronix/Mobile-Legend-even-helper/main/scripts/mlbb_undersea_restaurant_bot.js)** *(нажмите правой кнопкой / долгим тапом -> Сохранить как...)*
+* 📄 **[Скачать mlbb_undersea_restaurant_bot.js](https://raw.githubusercontent.com/avtotronix/Mobile-Legend-even-helper/main/scripts/mlbb_undersea_restaurant_bot.js)**  
+  *(На телефоне: откройте ссылку, нажмите три точки в браузере -> «Скачать» или скопируйте текст)*
+
+---
 
 ### 3. Инструкция по запуску (за 1 минуту):
 1. Установите скачанный **AutoX.js APK** на телефон.
-2. Откройте AutoX.js и выдайте два разрешения:
+2. Откройте приложение AutoX.js и выдайте два системных разрешения:
    * **Спец. возможности (Accessibility)** — чтобы бот мог нажимать по экрану.
-   * **Отображение поверх других окон** — чтобы висел плавающий виджет с кнопкой «Старт».
-3. Нажмите в AutoX.js кнопку **«+» -> Импорт** и выберите файл `mlbb_undersea_restaurant_bot.js`.
-4. Нажмите **Запустить** — на экране появится аккуратная плавающая кнопка `[ ▶ СТАРТ ]`.
+   * **Отображение поверх других приложений** — чтобы отображался плавающий виджет с кнопкой «Старт».
+3. Нажмите в AutoX.js кнопку **«+» -> Импорт** и выберите скачанный файл `mlbb_undersea_restaurant_bot.js` *(или нажмите «Создать новый скрипт» и вставьте скопированный код)*.
+4. Нажмите кнопку **Запустить** — на экране появится аккуратная плавающая панель с кнопкой `[ ▶ СТАРТ ]`.
 5. Откройте **Mobile Legends: Bang Bang**, зайдите на кухню ивента и нажмите `▶ СТАРТ`!
 
 ---
